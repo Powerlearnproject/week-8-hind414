@@ -1,0 +1,5 @@
+SDG problem definition
+SDG's being covered:
+SDG 6: Clean Water and Sanitation
+SDG 12: Responsible Consumption and Production
+My project is going to check how different households use water, address the problem and give recommendations of solutions to reduce excessive use of water.
